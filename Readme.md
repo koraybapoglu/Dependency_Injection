@@ -1,4 +1,4 @@
-# Bağı# Bağımlılık Enjeksiyonu (Dependency Injection) ve Servis Koleksiyonları
+## Bağımlılık Enjeksiyonu (Dependency Injection) ve Servis Koleksiyonları
 
 Bu README dosyası, bağımlılık enjeksiyonu ve servis koleksiyonlarını (dependency injection ve service collection) kısa ve net bir şekilde açıklar ve .NET Core özelinde yaygın olarak kullanılan `AddSingleton`, `AddTransient`, ve `AddScoped` yöntemlerini tanıtır.
 
